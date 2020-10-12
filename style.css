@@ -1,0 +1,29 @@
+body{
+    background-color: darkslategray;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
+.input-div{
+    display: inline;
+    justify-content: space-between;
+}
+#input-data{
+    width: 44%;
+    height: 10px;
+    padding: 10px;
+}
+#add-data{
+    height: 34px;
+}
+.cover-field, ul ,li{
+    width: 60%;
+    margin: auto;
+    padding:10px 0px;
+}
+
